@@ -3,5 +3,5 @@ A simple raytracing experiment using Javascript and Canvas. Made purely out of i
 
 Demo: https://harrycollin.github.io/simple-raytracer/
 
-![image](https://github.com/user-attachments/assets/677ecd76-1455-47cc-9645-2314c23d97e2)
+![image](https://github.com/user-attachments/assets/70ae330c-3394-40a3-950e-90711ab1bcba)
 
